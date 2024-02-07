@@ -1,0 +1,33 @@
+web service 
+- principal função autonomia de serviços.
+- enivam e recebem dados em XML.
+- XML é o formato dos dados, é uma linguagem comum entre o código e a nuvem do web service.
+- comunicação não se limita ao sistema operacional. 
+- permite integrção entre ambientes. tanto fisico quanto virtual. 
+
+banco de dados -> web service -> aparelhos
+------------------------------------------------
+banco de dados <- web service <- aparelhos
+(transporte da informação em XML)
+(4 pacotes para envio de informação)
+
+-todo web service é uma API mas nem toda API é um web service
+
+-checar no CMD para vereficação: ipconfig (checar o gateway padrão)
+depois ping 10.135.216.1 (numero do gateway padrão)
+
+
+exercicio 1: pense em exemplos prátios de atuação periódica de web service e represente-o em forma de esquema.
+
+web service de coleta de dados e personalização de propagandas e anuncios.
+
+		   cliente						web service						empresa da área										cliente
+	(pesquisa um produto ou serviço) 	->	(armazena e acessa os dados e envia ao servidor) 	->	(compra os dados armazenados pelo web service)		->	(ao acessar outro website cliente recebe propagandas e  
+
+																ofertas de lojas que vendem aquele produto)
+
+exercicio 2: qual o papel de web service.
+
+web service serve para integração e complementos em sistemas que precisam de um serviço especifico já existente e criado, fazendo uma conexão entre a plataforma de entrada
+e a de saída enviando e recebendo informações.
+
