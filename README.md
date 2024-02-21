@@ -1,2 +1,2 @@
-# DWS
+# WS
 aulas de web service
