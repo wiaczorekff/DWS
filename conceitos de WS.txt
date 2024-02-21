@@ -1,0 +1,48 @@
+
+
+conceito de web service:
+oque é:
+um serviço de aplicação que pode ser acessado usando protocolos padrão web (http, https).
+podem ser aplicados em qualquer tipo de plataforma.
+tem a capacidade de atuar ponto a ponto e aplicações distribuidas em varias maquinas.
+comunicação full duplex vai ponta a ponta e depois faz o caminho inverso.
+exemplo:
+ifood
+pedido -> provedor -> ifood -> loja -> motoboi
+
+elementos da web service: 
+protocolos de descoberta, envio de mensagens e camada de aplicação;
+
+qual a diferença de API e WS:
+um serviço web utliza apenas 3 seviços de comunicação, enquanto a API usa todos e o web service necessita de um servidor web e a API não.
+
+pricipais motivos para uso do WS
+integração entre sistemas distintos,
+pafronização no retorno de cada requisição de serviço.
+
+porrque WS:
+plataforma neutra
+acessiveis de maneira padrão
+interoperabilidade: independente do sistema operacional
+simples e facil
+simplifica integração nas empresas
+
+funcionamento:
+
+SOAP(protocolo simples de acesso ao objeto)
+utilizado para troca de informações estruturadas com especificação W3C (WWW),
+visto como um envelope contendo dados que podem se movr entre o provedor e o cliente,
+usa com GET ou POST.
+intregração de programa pra programa
+possibilidade de agregação de serviços
+mensagens em XML
+baseada nos padrões da industria
+integração entre componentes dinamicamente.
+1 envelope
+2 cabecalho
+3 corpo
+4 erros
+
+
+REST
+
