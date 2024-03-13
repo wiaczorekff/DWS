@@ -1,0 +1,15 @@
+tutorial.
+
+usar node.js e VScode
+
+passo 1 - abrir o VScode, (ctrl + ') abrir o terminal.
+
+passo 2 - digitar: npm init -y (a pasta json vai ser baixada)
+
+passo 3 - digitar: npm install express (express é o framework)
+
+passo 4 - digitar: node + index.js (nome da pasta)
+
+
+
+body-parser
