@@ -11,5 +11,8 @@ passo 3 - digitar: npm install express (express é o framework)
 passo 4 - digitar: node + index.js (nome da pasta)
 
 
+-------------------------------
 
-body-parser
+npm install -g yarn (automatiza API sem parar o servidor)
+
+npm install cors (comunicação segura entre dominios)
