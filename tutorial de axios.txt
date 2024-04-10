@@ -1,0 +1,27 @@
+AXIOS - bliblioteca que consome APIs
+
+passo 1: instalar AXIOS 
+( npm init -y ) depois ( npm install express axios )
+
+
+
+passo 2: criar um arquivo chamado server.js
+
+
+
+passo 3: na pasta server.js coloque esses códigos:
+const express = require('express');
+const axios = require('axios');
+const path = require('path');
+const app = express();
+const PORT = 8080;]
+app.use(express.static('public'));
+
+
+
+
+
+
+
+
+
